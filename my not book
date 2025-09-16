@@ -15,7 +15,7 @@ print(f"greater number {greater}");
 
 
 3.how it use for Loop statment
-for i in renge = (1,20,1)
+for i in renge (1,20,1)
   print(i);
 
 
