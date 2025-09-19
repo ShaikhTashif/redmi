@@ -14,11 +14,13 @@ greater = Max(num1,num2)
 print(f"greater number {greater}");
 
 
-3.how it use for Loop statment
+3.how it use for Loop statment.
 for i in renge (1,20,1)
   print(i);
 
-
+4.I'm use the revers string.
+x = "fihsaT"
+print(a[::-1])
 
 
 
