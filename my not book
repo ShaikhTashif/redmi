@@ -22,8 +22,10 @@ for i in renge (1,20,1)
 x = "fihsaT"
 print(a[::-1])
 
-
-
+5.Divert the number for python 
+a (input("Tell your number")
+rev = a[::-1]
+print(rev);
 
 
 
