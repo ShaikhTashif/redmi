@@ -27,6 +27,33 @@ a (input("Tell your number")
 rev = a[::-1]
 print(rev);
 
+6.This is the game for while is used 
+import random
+
+num = random.randint(1,101)
+
+tries = 0
+
+while True:
+    guess = int(input("Guess your number :"))
+
+
+    if num == guess:
+        tries +=1
+        print("your are right you gussed the number is {tries} tries")
+        break
+    
+    elif num < guess:
+        print("your are right ")
+        tries +=1
+
+    elif num > guess:
+        print("go little lower")
+        tries +=1
+
+    else:
+        tries +=1
+        print("sorry you are wrong")
 
 
 
