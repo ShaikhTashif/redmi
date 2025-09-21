@@ -55,7 +55,10 @@ while True:
         tries +=1
         print("sorry you are wrong")
 
-
+7.how it use the python for function 
+def greet():
+  print("Tashif is the king of this world all thing will be achived");
+geert()
 
 
 
