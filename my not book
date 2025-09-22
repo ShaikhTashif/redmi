@@ -65,6 +65,11 @@ def greet():
   return "Hello everyone I'm going on the collage"
 print(greet());
 
+9.How it call the list value forloop its use.
+number = [10,12,14,20,50]
+for i in range(len(number))
+  print(number[i]);
+
 
 
 
