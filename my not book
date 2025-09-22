@@ -63,7 +63,8 @@ geert()
 8.how it call for def function in a program resturn value
 def greet():
   return "Hello everyone I'm going on the collage"
-print(greet())
+print(greet());
+
 
 
 
