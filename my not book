@@ -70,6 +70,12 @@ number = [10,12,14,20,50]
 for i in range(len(number))
   print(number[i]);
 
+10.how it use for function.
+def sum(a,b):
+  print("hello I'm Tashif {a + b});
+sum(10,20)
+
+
 
 
 
