@@ -75,6 +75,11 @@ def sum(a,b):
   print("hello I'm Tashif {a + b});
 sum(10,20)
 
+11.how it use for indexing.
+a = [10,20,30,40,50,60,70,80,90,100]
+  for i in range(len[a])
+    print(i[a])
+
 
 
 
