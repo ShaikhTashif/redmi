@@ -82,7 +82,22 @@ a = [10,20,30,40,50,60,70,80,90,100]
 12.call for list Method all in use for python 
 print(dir(list));
 
-13.dictionary how it use for this 
+13.This is for Exception handling
+a = int(input("Tell your number :"))
+
+try:
+    print(10/a)
+except Exception as err:
+    print("sorry you cannot divided by 0")
+
+else:
+    print("good there is no exception")
+
+finally:
+    print("I will run no metter what") 
+
+print("ok I have done the division")
+
 
 
 
