@@ -104,7 +104,10 @@ Todyas I'm not working for the python in ML I'm sorry for my self and tomarrow i
 p =open ('p1.py')
 print(p.read())
 
-14.
+14.file handling used in X for Creating.
+x = open('st.txt','x')
+x.write("hello I'm Tashif todays learning python")
+x.close()
 
 
 
