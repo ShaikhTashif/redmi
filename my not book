@@ -109,7 +109,13 @@ x = open('st.txt','x')
 x.write("hello I'm Tashif todays learning python")
 x.close()
 
-
+15.oops to use for python
+class Tashif:
+  a = 100000000
+      def hello()
+          print("how are you")
+  print("I'm the best in my life")
+print(Tashif.a);
 
 
 
