@@ -117,7 +117,10 @@ class Tashif:
   print("I'm the best in my life")
 print(Tashif.a);
 
-
+16.how it use for def
+def hello():
+  print("Hello I'm best")
+hello();
 
 
 
