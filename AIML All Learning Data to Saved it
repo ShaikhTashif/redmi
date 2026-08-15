@@ -495,7 +495,7 @@ plt.ylabel("Tip ($)")
 plt.grid(True, linestyle='--', alpha=0.6)
 plt.show()
 
-
+Stop todays 
 
 
 
